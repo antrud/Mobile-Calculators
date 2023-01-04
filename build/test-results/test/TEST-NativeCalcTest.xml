@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="NativeCalcTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-04T16:59:49" hostname="Rudashko.local" time="3.522">
-  <properties/>
-  <testcase name="firstTest" classname="NativeCalcTest" time="3.522"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
