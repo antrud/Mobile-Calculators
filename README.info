@@ -1,0 +1,3 @@
+WebCalcTest:
+
+appium --base-path /wd/hub --allow-cors --allow-insecure chromedriver_autodownload
